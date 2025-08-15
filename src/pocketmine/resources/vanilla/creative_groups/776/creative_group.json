@@ -1,0 +1,866 @@
+[
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.planks",
+        "icon": {
+            "id": 5,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.walls",
+        "icon": {
+            "id": 139,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.fence",
+        "icon": {
+            "id": 85,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.fenceGate",
+        "icon": {
+            "id": 107,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.stairs",
+        "icon": {
+            "id": 67,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.door",
+        "icon": {
+            "id": 324,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.trapdoor",
+        "icon": {
+            "id": 96,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.glass",
+        "icon": {
+            "id": 20,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.glassPane",
+        "icon": {
+            "id": 102,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.slab",
+        "icon": {
+            "id": 44,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.stoneBrick",
+        "icon": {
+            "id": 98,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.sandstone",
+        "icon": {
+            "id": 24,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.copper"
+    },
+    {
+        "category_id": 1,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.wool",
+        "icon": {
+            "id": 35,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.woolCarpet",
+        "icon": {
+            "id": 171,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.concretePowder",
+        "icon": {
+            "id": 237,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.concrete",
+        "icon": {
+            "id": 236,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.stainedClay",
+        "icon": {
+            "id": 172,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.glazedTerracotta",
+        "icon": {
+            "id": 220,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.ore",
+        "icon": {
+            "id": 15,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.stone",
+        "icon": {
+            "id": 1,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.log",
+        "icon": {
+            "id": 17,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.wood",
+        "icon": {
+            "id": -212,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.leaves",
+        "icon": {
+            "id": 18,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.sapling",
+        "icon": {
+            "id": 6,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.seed",
+        "icon": {
+            "id": 295,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.crop",
+        "icon": {
+            "id": 296,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.grass",
+        "icon": {
+            "id": 31,
+            "damage": 3
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.coral_decorations",
+        "icon": {
+            "id": -131,
+            "damage": 3
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.flower",
+        "icon": {
+            "id": 37,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.dye",
+        "icon": {
+            "id": 351,
+            "damage": 11
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.rawFood",
+        "icon": {
+            "id": 365,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.mushroom",
+        "icon": {
+            "id": 39,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.monsterStoneEgg",
+        "icon": {
+            "id": 97,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.mobEgg",
+        "icon": {
+            "id": 383,
+            "damage": 10
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.coral",
+        "icon": {
+            "id": -132,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.sculk"
+    },
+    {
+        "category_id": 2,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.helmet",
+        "icon": {
+            "id": 298,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.chestplate",
+        "icon": {
+            "id": 299,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.leggings",
+        "icon": {
+            "id": 300,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.boots",
+        "icon": {
+            "id": 301,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.sword",
+        "icon": {
+            "id": 268,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.axe",
+        "icon": {
+            "id": 271,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.pickaxe",
+        "icon": {
+            "id": 270,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.shovel",
+        "icon": {
+            "id": 269,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.hoe",
+        "icon": {
+            "id": 290,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.arrow",
+        "icon": {
+            "id": 262,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.cookedFood",
+        "icon": {
+            "id": 366,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.miscFood",
+        "icon": {
+            "id": 297,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.goatHorn",
+        "icon": {
+            "id": 624,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.bundles"
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.horseArmor",
+        "icon": {
+            "id": 416,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.potion",
+        "icon": {
+            "id": 373,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.splashPotion",
+        "icon": {
+            "id": 438,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.lingeringPotion",
+        "icon": {
+            "id": 441,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.ominousBottle"
+    },
+    {
+        "category_id": 3,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.bed",
+        "icon": {
+            "id": 355,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.candles"
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.anvil",
+        "icon": {
+            "id": 145,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.chest",
+        "icon": {
+            "id": 54,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.shulkerBox",
+        "icon": {
+            "id": 205,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.record",
+        "icon": {
+            "id": 500,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.sign",
+        "icon": {
+            "id": 323,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.hanging_sign"
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.skull",
+        "icon": {
+            "id": 397,
+            "damage": 4
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.enchantedBook",
+        "icon": {
+            "id": 403,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.boat",
+        "icon": {
+            "id": 333,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.chestboat",
+        "icon": {
+            "id": 646,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.rail",
+        "icon": {
+            "id": 66,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.minecart",
+        "icon": {
+            "id": 328,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.buttons",
+        "icon": {
+            "id": 143,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.pressurePlate",
+        "icon": {
+            "id": 72,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.banner",
+        "icon": {
+            "id": 446,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.banner_pattern",
+        "icon": {
+            "id": 434,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.potterySherds"
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.smithing_templates"
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.firework",
+        "icon": {
+            "id": 401,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.fireworkStars",
+        "icon": {
+            "id": 402,
+            "damage": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": -158,
+            "damage": 0
+        }
+    }
+]

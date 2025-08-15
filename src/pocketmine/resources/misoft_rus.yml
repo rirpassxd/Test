@@ -1,0 +1,75 @@
+#Расширенный файл конфигурации MiSoft
+
+#true (прада) - включено
+#false (ложь) - выключено
+
+kill-thread:
+ #Выберите, включено ли автоотключение сервера при его зависании (может пригодиться при атаках на сервер)
+ enabled: true
+ #Выберите, через сколько секунд после зависания сервер будет отключен
+ timeout: 10
+
+entity:
+ knockBack:
+  #Если vanilla=true, то настройки ниже работать не будут.
+  vanilla: true
+  modX: 0.4
+  modY: 0.4
+  delay: 10
+  verticalLimitEnabled: true
+  verticalLimit: 2.5
+  verticalLimitMultiplier: 0.85
+
+level:
+ #Выберите, включена ли погода (дождь может вызвать лаги на старых устройствах)
+ weather: true
+ #Случаная продолжительность погоды
+ weather-random-duration-min: 6000
+ weather-random-duration-max: 12000
+ #Случайный интервал молнии, по умолчанию как 10 сек, 0 = отключить
+ lightning-time: 200
+ #Пожег при ударе молнии
+ lightning-fire: false
+ #Распространение огня
+ fire-spread: false
+
+developer:
+  #Этот параметр позволяет серверу загружать плагины из исходников
+  #Рекомендуется, чтобы он оставался "ложным"
+  folder-plugin-loader: false
+  #Этот параметр отключает проверку API версии плагинов
+  #Рекомендуется, чтобы он оставался "ложным"
+  load-incompatible-api: false
+
+nether:
+ #Нижний мир (ад)
+ allow-nether: true
+ #Имя мира
+ level-name: "nether"
+
+ender:
+ #Край
+ allow-ender: true
+ #Имя мира
+ level-name: "ender"
+
+anti-xray:
+ #Выберите, включен ли anti-xray
+ enabled: false
+ #Миры где будет включен anti-xray
+ worlds:
+  - world
+mobs:
+ # Если включено, мобы смогут двигаться
+ # Примечание: эта возможность может вызывать зависания на вашем сервере, если заспавнено много мобов
+ enable-mob-ai: false
+ # Авто генерация мобов. Включите если хотите, чтобы в в мире спавнились мобы.
+ generic-auto-mob-spawning: false
+
+redstone:
+ #Выберите, включена ли система редстоуна
+ enable: false
+ #Выберите, если включены импульсы частоты
+ frequency-pulse: false
+ #Установите частоту импульса. По умолчанию = 1 сек
+ pulse-frequency: 1
