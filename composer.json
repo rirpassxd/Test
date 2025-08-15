@@ -1,0 +1,90 @@
+{
+   "name": "pocketmine/pocketmine-mp",
+   "description": "A server software for Minecraft: Pocket Edition written in PHP",
+   "type": "project",
+   "homepage": "https://pmmp.io",
+   "license": "LGPL-3.0",
+   "require": {
+      "php": ">=8.2.0",
+      "php-64bit": "*",
+      "ext-bcmath": "*",
+      "ext-curl": "*",
+      "ext-ctype": "*",
+      "ext-date": "*",
+      "ext-pmmpthread": "^6.1.0",
+      "ext-hash": "*",
+      "ext-json": "*",
+      "ext-mbstring": "*",
+      "ext-openssl": "*",
+      "ext-pcre": "*",
+      "ext-phar": "*",
+      "ext-reflection": "*",
+      "ext-sockets": "*",
+      "ext-spl": "*",
+      "ext-yaml": ">=2.0.0",
+      "ext-zip": "*",
+      "ext-zlib": ">=1.2.11",
+      "fgrosse/phpasn1": "~2.5.0",
+      "multimcpe/raklib": "^0.12.5",
+      "multimcpe/spl": "^0.3.0",
+      "multimcpe/binaryutils": "^0.1.9",
+      "multimcpe/nbt": "^0.2.10",
+      "multimcpe/math": "^0.2.0",
+      "multimcpe/snooze": "^0.1.0",
+      "pocketmine/errorhandler": "^0.7.0",
+      "daverandom/callback-validator": "dev-master",
+      "adhocore/json-comment": "^0.0.7"
+   },
+   "require-dev": {
+      "phpstan/phpstan": "1.11.1",
+      "phpstan/phpstan-phpunit": "^1.0.0",
+      "phpstan/phpstan-strict-rules": "^1.0.0",
+      "phpunit/phpunit": "^9.2"
+   },
+   "autoload": {
+      "psr-4": {
+         "pocketmine\\": "src/pocketmine/"
+      },
+      "files": [
+         "src/pocketmine/GlobalConstants.php",
+         "src/pocketmine/VersionInfo.php"
+      ]
+   },
+   "autoload-dev": {
+      "psr-4": {
+         "pocketmine\\": "tests/phpunit/"
+      }
+   },
+   "config": {
+      "platform": {
+         "php": "8.3.0"
+      },
+      "sort-packages": true
+   },
+   "repositories": [
+      {
+         "type": "git",
+         "url": "https://github.com/multimcpe/RakLib"
+      },
+      {
+         "type": "git",
+         "url": "https://github.com/multimcpe/SPL"
+      },
+      {
+         "type": "git",
+         "url": "https://github.com/multimcpe/BinaryUtils"
+      },
+      {
+         "type": "git",
+         "url": "https://github.com/multimcpe/NBT"
+      },
+      {
+         "type": "git",
+         "url": "https://github.com/multimcpe/Math"
+      },
+      {
+         "type": "git",
+         "url": "https://github.com/multimcpe/Snooze"
+      }
+   ]
+}
